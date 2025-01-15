@@ -5,7 +5,7 @@ linki do projektow w python sandbox
 
 program rysuje trojkąt sierpińskiego i zlicza ilość wywołań rekurencyjnych
 
-https://pythonsandbox.com/code/pythonsandbox_u122993_DimAUOD4rXoEW3aaRhksep2Y_v0.py
+https://pythonsandbox.com/code/pythonsandbox_u122993_DimAUOD4rXoEW3aaRhksep2Y_v1.py
 
 
 Okazuje się ze ilosc wywolan mozna opisac wzorem  f(n) = 3^0 + 3^1 + ... + 3^n
